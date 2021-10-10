@@ -5,7 +5,7 @@
   Especializado em análise de dados, ex Webdev e Analista de cliente<br>
   Lendo: Hands-On Data Analysis with Pandas.<br>
   Fazendo: CS50, Stats110 de Harvard.<br>
-  Próximo: Banco de dados, D.s. e B.i na FIAP.<br>
+  Próximo: Banco de dados, D.S. e B.I. na FIAP (2022-2023).<br>
   Eu amo aprender, desafios e amo criar projetos.<br>
   Ler, yoga e correr são meus principais hobbies.<br>
 </p>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Jupyter Notebook
+  💼 Ferramentas: Jupyter Notebook, PowerBI, Tableau, DataStudio
 </p>
 
 <p align="left">
