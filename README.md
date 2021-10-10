@@ -1,16 +1,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, sou Pedro e atuo como <strong>Data & Analytics </strong>.<br>
+  Especializado em análise de dados, ex Webdev e análise de clientes.<br>
+  Lendo: Hands-On Data Analysis with Pandas.<br>
+  Fazendo: CS50, Stats110 de Harvard.<br>
+  Próximo: Banco de dados, D.s. e B.i na FIAP.<br>
+  Eu amo aprender, desafios e amo criar projetos.<br>
+  Ler, yoga e correr são meus principais hobbies.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: Python, SQL
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: Jupyter Notebook
 </p>
 
 <p align="left">
