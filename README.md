@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Jupyter Notebook, PowerBI, Tableau, DataStudio
+  💼 Ferramentas: Jupyter Notebook, QLik Sense, PowerBI, Tableau, DataStudio
 </p>
 
 <p align="left">
