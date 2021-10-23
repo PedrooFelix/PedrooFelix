@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, SQL
+  🦄  Linguagens: Python, SQL
 </p>
 
 <p align="left">
-  💼 Ferramentas: Jupyter Notebook, QLik Sense, PowerBI, Tableau, DataStudio
+  💼  Ferramentas: Jupyter Notebook, QLik Sense, PowerBI, Tableau, DataStudio
 </p>
 
 <p align="left">
-  💌 Entre em contato agora: ⤵️
+  💌  Entre em contato agora: ⤵️
 </p>
 
 <p align="left">
