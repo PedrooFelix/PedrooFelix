@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T.<br>
+  Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T desde Abril de 2021.<br>
   Especializado em análise de dados pela IronHack, ex Webdev(2 Anos) e Analista de cliente (1 Ano e 7 Meses)<br><br>
   Lendo: Hands-On Data Analysis with Pandas.<br><br>
   Estudando: CS50, Stats110 on EDX.<br><br>
