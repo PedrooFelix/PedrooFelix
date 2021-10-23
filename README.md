@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T.<br>
-  Especializado em análise de dados, ex Webdev e Analista de cliente<br>
-  Lendo: Hands-On Data Analysis with Pandas.<br>
-  Fazendo: CS50, Stats110 Online.<br>
-  Próximo: Banco de dados, D.S. e B.I. na FIAP (2022-2023).<br>
-  Eu amo aprender, desafios e criar projetos.<br>
-  Ler, yoga e correr são meus principais hobbies.<br>
+  Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T.<br><br>
+  Especializado em análise de dados, ex Webdev e Analista de cliente<br><br>
+  Lendo: Hands-On Data Analysis with Pandas.<br><br>
+  Fazendo: CS50, Stats110 Online.<br><br>
+  Próximo: Banco de dados, D.S. e B.I. na FIAP (2022-2023).<br><br>
+  Eu amo aprender, desafios e criar projetos.<br><br>
+  Ler, yoga e correr são meus principais hobbies.<br><br>
 </p>
 
 <p align="left">
