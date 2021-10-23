@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T.<br>
-  Especializado em análise de dados, ex Webdev(2 Anos) e Analista de cliente (1 Ano e 7 Meses)<br><br>
+  Especializado em análise de dados pela IronHack, ex Webdev(2 Anos) e Analista de cliente (1 Ano e 7 Meses)<br><br>
   Lendo: Hands-On Data Analysis with Pandas.<br><br>
   Estudando: CS50, Stats110 on EDX.<br><br>
   Próximo: Banco de dados, D.S. e B.I. na FIAP (2022-2023).<br><br>
