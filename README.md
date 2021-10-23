@@ -6,8 +6,8 @@
   Lendo: Hands-On Data Analysis with Pandas.<br><br>
   Estudando: CS50, Stats110 on EDX.<br><br>
   Próximo: Banco de dados, D.S. e B.I. na FIAP (2022-2023).<br><br>
-  Participei de 5 Hackatons, 2º Lugar e 1º Lugar Fatec. <br><br>
-  Dave Asprey, Naval, David Hawkins e Horácio Frazao são meus autores preferidos.<br><br>
+  Participei de 5 Hackatons, 1º Lugar Fatec, 2º Lugar Google <br><br>
+  <br><br>
 </p>
 
 <p align="left">
