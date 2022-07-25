@@ -4,8 +4,6 @@
   Olá, sou Pedro e atuo como <strong>Data & Analytics </strong> pela CI&T desde Abril de 2021.<br>
   Especializado em análise de dados pela IronHack, ex Webdev(2 Anos) e Analista de cliente (1 Ano e 7 Meses)<br><br>
   Lendo: Hands-On Data Analysis with Pandas.<br><br>
-  Estudando: CS50, Stats110 on EDX.<br><br>
-  Próximo: Banco de dados, D.S. e B.I. na FIAP (2023-2024).<br><br>
   Participei de 5 Hackatons, 🥇 1º Lugar Fatec, 🥈 2º Lugar Google
   <br><br>
 </p>
